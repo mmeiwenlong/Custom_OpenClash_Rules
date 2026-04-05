@@ -12,19 +12,19 @@
 
 ## 📑 目录索引
 
-### 1️⃣ [OpenClash 设置方案](1.OpenClash-设置方案.md)
+### 1️⃣ [OpenClash 设置方案](https://github.com/Aethersailor/Custom_OpenClash_Rules/wiki/OpenClash-%E8%AE%BE%E7%BD%AE%E6%96%B9%E6%A1%88)
 
 > 本项目的核心内容。手把手教你配置 OpenClash，完成分流策略、DNS 与覆写等基础设置。
 
-### 2️⃣ [OpenWrt IPv6 设置方案](2.OpenWrt-IPv6-设置方案.md)
+### 2️⃣ [OpenWrt IPv6 设置方案](https://github.com/Aethersailor/Custom_OpenClash_Rules/wiki/OpenWrt-IPv6-%E8%AE%BE%E7%BD%AE%E6%96%B9%E6%A1%88)
 
 > 解决 OpenWrt 下 IPv6 的常见痛点，让双栈在同一套分流逻辑下稳定工作。
 
-### 3️⃣ [OpenClash 零碎教程](3.OpenClash-零碎教程.md)
+### 3️⃣ [OpenClash 零碎教程](https://github.com/Aethersailor/Custom_OpenClash_Rules/wiki/OpenClash-%E9%9B%B6%E7%A2%8E%E6%95%99%E7%A8%8B)
 
 > 技多不压身。收集了一些进阶玩法和特殊场景的配置技巧。
 
-### 4️⃣ [~~无插件广告拦截功能设置方案~~](4.无插件广告拦截功能设置方案.md)
+### 4️⃣ [~~无插件广告拦截功能设置方案~~](https://github.com/Aethersailor/Custom_OpenClash_Rules/wiki/%E6%97%A0%E6%8F%92%E4%BB%B6%E5%B9%BF%E5%91%8A%E6%8B%A6%E6%88%AA%E5%8A%9F%E8%83%BD%E8%AE%BE%E7%BD%AE%E6%96%B9%E6%A1%88)
 
 > ~~尝试用 OpenClash 配合 Dnsmasq 做广告拦截。~~
 
@@ -33,18 +33,18 @@
 > [!WARNING]
 > ⚠️ **警告**：经测试该方案存在稳定性问题，目前不推荐折腾，后果自负。
 
-### 5️⃣ [故障排除](5.故障排除.md)
+### 5️⃣ [故障排除](https://github.com/Aethersailor/Custom_OpenClash_Rules/wiki/%E6%95%85%E9%9A%9C%E6%8E%92%E9%99%A4)
 
 > 遇到问题先看这里。总结了常见的坑和对应的解决方法。
 
-### 6️⃣ [关于“旁路由”的一些吐槽](6.关于“旁路由”的一些吐槽.md)
+### 6️⃣ [关于“旁路由”的一些吐槽](https://github.com/Aethersailor/Custom_OpenClash_Rules/wiki/%E5%85%B3%E4%BA%8E%E2%80%9C%E6%97%81%E8%B7%AF%E7%94%B1%E2%80%9D%E7%9A%84%E4%B8%80%E4%BA%9B%E5%90%90%E6%A7%BD)
 
 > 聊聊为什么我不推荐旁路由。QNMD 旁路由！
 
-### 7️⃣ [一些零碎的教程](7.一些零碎的教程.md)
+### 7️⃣ [一些零碎的教程](https://github.com/Aethersailor/Custom_OpenClash_Rules/wiki/%E4%B8%80%E4%BA%9B%E9%9B%B6%E7%A2%8E%E7%9A%84%E6%95%99%E7%A8%8B)
 
 > 想到什么写什么，一些实用的小教程合集。
 
-### 8️⃣ [其他推荐项目](8.其他推荐项目.md)
+### 8️⃣ [其他推荐项目](https://github.com/Aethersailor/Custom_OpenClash_Rules/wiki/%E5%85%B6%E4%BB%96%E6%8E%A8%E8%8D%90%E9%A1%B9%E7%9B%AE)
 
 > 社区里其他不错的 OpenClash 相关项目推荐。
