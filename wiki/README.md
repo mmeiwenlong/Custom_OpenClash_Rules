@@ -6,7 +6,7 @@
 ---
 
 > [!NOTE]
-> **说明**：本项目 Wiki 内容会自动同步备份至主仓库。建议 Fork 主仓库并定期同步，便于自定义和备份。
+> **说明：** 本项目 Wiki 内容会自动同步备份至主仓库。建议 Fork 主仓库并定期同步，便于自定义和备份。
 
 ---
 
@@ -26,7 +26,7 @@
 
 ### 4️⃣ [~~无插件广告拦截功能设置方案~~](https://github.com/Aethersailor/Custom_OpenClash_Rules/wiki/%E6%97%A0%E6%8F%92%E4%BB%B6%E5%B9%BF%E5%91%8A%E6%8B%A6%E6%88%AA%E5%8A%9F%E8%83%BD%E8%AE%BE%E7%BD%AE%E6%96%B9%E6%A1%88)
 
-> ~~尝试用 OpenClash 配合 Dnsmasq 做广告拦截。~~
+> ~~尝试用 OpenClash 配合 dnsmasq 做广告拦截。~~
 
 <!-- -->
 
@@ -37,7 +37,7 @@
 
 > 遇到问题时请先查看本页，其中汇总了常见问题及对应的解决方法。
 
-### 6️⃣ [关于“旁路由”的一些吐槽](https://github.com/Aethersailor/Custom_OpenClash_Rules/wiki/%E5%85%B3%E4%BA%8E%E2%80%9C%E6%97%81%E8%B7%AF%E7%94%B1%E2%80%9D%E7%9A%84%E4%B8%80%E4%BA%9B%E5%90%90%E6%A7%BD)
+### 6️⃣ [关于「旁路由」的一些吐槽](https://github.com/Aethersailor/Custom_OpenClash_Rules/wiki/%E5%85%B3%E4%BA%8E%E2%80%9C%E6%97%81%E8%B7%AF%E7%94%B1%E2%80%9D%E7%9A%84%E4%B8%80%E4%BA%9B%E5%90%90%E6%A7%BD)
 
 > 说明本项目不推荐旁路由的原因，以及该组网方式存在的问题。
 
