@@ -31,7 +31,7 @@
 <!-- -->
 
 > [!WARNING]
-> ⚠️ **警告**：经测试该方案存在稳定性问题，目前已弃用，仅作存档。
+> 经测试，该方案存在稳定性问题，目前已弃用，仅作存档。
 
 ### 5️⃣ [故障排除](https://github.com/Aethersailor/Custom_OpenClash_Rules/wiki/%E6%95%85%E9%9A%9C%E6%8E%92%E9%99%A4)
 
@@ -51,4 +51,4 @@
 
 ### 9️⃣ [其他说明](https://github.com/Aethersailor/Custom_OpenClash_Rules/wiki/%E5%85%B6%E4%BB%96%E8%AF%B4%E6%98%8E)
 
-> 包含 OpenClash Dev 版本升级、个性化配置与小众域名收录说明。
+> 包含 OpenClash `dev` 版本升级、个性化配置与小众域名收录说明。
